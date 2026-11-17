@@ -1,0 +1,54 @@
+{
+  "articles": [
+    {
+      "id": "hn-50522980",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "source": "cs.cmu.edu",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "date": "2026-11-16",
+      "tag": "tech",
+      "summary": "1463 points, 198 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50522980"
+    },
+    {
+      "id": "hn-50523601",
+      "title": "BugMeNot has closed",
+      "source": "bugmenot.com",
+      "url": "https://www.bugmenot.com/",
+      "date": "2026-11-16",
+      "tag": "tech",
+      "summary": "526 points, 234 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50523601"
+    },
+    {
+      "id": "hn-50512779",
+      "title": "Nimony: A New Compiler for Nim",
+      "source": "nimony.org",
+      "url": "https://nimony.org/",
+      "date": "2026-11-16",
+      "tag": "tech",
+      "summary": "41 points, 14 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50512779"
+    },
+    {
+      "id": "hn-50524767",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "source": "blog.report-uri.com",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "date": "2026-11-16",
+      "tag": "security",
+      "summary": "326 points, 139 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50524767"
+    },
+    {
+      "id": "hn-50496787",
+      "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+      "source": "github.com",
+      "url": "https://github.com/ZigaoWang/zigzag",
+      "date": "2026-11-14",
+      "tag": "tech",
+      "summary": "44 points, 22 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50496787"
+    }
+  ]
+}

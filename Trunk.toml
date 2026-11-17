@@ -1,0 +1,13 @@
+# Trunk build configuration. The pre-build hook refreshes the fallback sheet
+# from the Hacker News front page, so data/articles.json (and the copy baked
+# into the binary at build time) always holds the current top five.
+# If the fetch fails or the sheet is unchanged, the script leaves the existing
+# file untouched. The watcher ignores data/ so the hook can never feed itself
+# a rebuild loop.
+[[hooks]]
+stage = "pre_build"
+command = "node"
+command_arguments = ["data/fetch-hn.mjs"]
+
+[watch]
+ignore = ["data"]
