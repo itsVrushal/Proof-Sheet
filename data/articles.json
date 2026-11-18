@@ -1,54 +1,54 @@
 {
   "articles": [
     {
-      "id": "hn-50522980",
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "source": "cs.cmu.edu",
-      "url": "https://www.cs.cmu.edu/learn/",
-      "date": "2026-11-16",
+      "id": "hn-50538240",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "source": "calif.io",
+      "url": "https://calif.io/java4shell/",
+      "date": "2026-11-17",
       "tag": "tech",
-      "summary": "1463 points, 198 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50522980"
+      "summary": "775 points, 204 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50538240"
     },
     {
-      "id": "hn-50523601",
-      "title": "BugMeNot has closed",
-      "source": "bugmenot.com",
-      "url": "https://www.bugmenot.com/",
-      "date": "2026-11-16",
+      "id": "hn-50540437",
+      "title": "ID.me terms required for IRS sign-in",
+      "source": "consumerrights.wiki",
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "date": "2026-11-18",
       "tag": "tech",
-      "summary": "526 points, 234 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50523601"
+      "summary": "295 points, 126 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50540437"
     },
     {
-      "id": "hn-50512779",
-      "title": "Nimony: A New Compiler for Nim",
-      "source": "nimony.org",
-      "url": "https://nimony.org/",
-      "date": "2026-11-16",
-      "tag": "tech",
-      "summary": "41 points, 14 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50512779"
+      "id": "hn-50535230",
+      "title": "GPT‑6.2 Astra and Sol",
+      "source": "openai.com",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "date": "2026-11-17",
+      "tag": "ai",
+      "summary": "1212 points, 758 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50535230"
     },
     {
-      "id": "hn-50524767",
-      "title": "Optimizely compromised, served malware on Zoom, GitLab",
-      "source": "blog.report-uri.com",
-      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-      "date": "2026-11-16",
-      "tag": "security",
-      "summary": "326 points, 139 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50524767"
+      "id": "hn-50538994",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "source": "blog.cloudflare.com",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "date": "2026-11-17",
+      "tag": "tech",
+      "summary": "467 points, 145 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50538994"
     },
     {
-      "id": "hn-50496787",
-      "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
-      "source": "github.com",
-      "url": "https://github.com/ZigaoWang/zigzag",
-      "date": "2026-11-14",
-      "tag": "tech",
-      "summary": "44 points, 22 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50496787"
+      "id": "hn-50540178",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "source": "revscope.co",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "date": "2026-11-18",
+      "tag": "ai",
+      "summary": "292 points, 217 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50540178"
     }
   ]
 }

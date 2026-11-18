@@ -10,4 +10,4 @@ command = "node"
 command_arguments = ["data/fetch-hn.mjs"]
 
 [watch]
-ignore = ["data"]
+ignore = ["data", "data/**"]
