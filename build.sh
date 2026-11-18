@@ -11,9 +11,10 @@ cargo --version
 # 2. Add WebAssembly target
 rustup target add wasm32-unknown-unknown
 
-# 3. Download prebuilt Trunk binary (v0.22.1) into /tmp/bin
+# 3. Download statically linked Trunk binary (musl) into /tmp/bin
+# Using musl avoids glibc version mismatches on Vercel's Amazon Linux container
 mkdir -p /tmp/bin
-curl -sSfL https://github.com/trunk-rs/trunk/releases/download/v0.22.1/trunk-x86_64-unknown-linux-gnu.tar.gz | tar -xzf- -C /tmp/bin
+curl -sSfL https://github.com/trunk-rs/trunk/releases/download/v0.22.1/trunk-x86_64-unknown-linux-musl.tar.gz | tar -xzf- -C /tmp/bin
 export PATH="/tmp/bin:$PATH"
 
 echo "Using Trunk:"
