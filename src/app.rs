@@ -579,12 +579,23 @@ fn Footer() -> impl IntoView {
                     <nav class="close__links" aria-label="Footer">
                         <a href="#index">"The sheet"</a>
                         <a href="#about">"About"</a>
+                        <a href="https://github.com/itsVrushal/Proof-Sheet" target="_blank" rel="noopener">"GitHub"</a>
                         <a href="#main">"Back to top"</a>
                     </nav>
                 </div>
             </div>
             <div class="container">
                 <p class="close__credits" data-credits>
+                    "Crafted in Rust & WASM by "
+                    <a href="https://github.com/itsVrushal" target="_blank" rel="noopener">
+                        "Vrushal Patil"
+                    </a>
+                    " · "
+                    <a href="https://github.com/itsVrushal/Proof-Sheet" target="_blank" rel="noopener">
+                        "GitHub"
+                    </a>
+                </p>
+                <p class="close__credits" style="margin-top: var(--space-xs);" data-credits>
                     "Photographs: "
                     <a href="https://commons.wikimedia.org/wiki/File:P%C3%B6rtschach_10.-Oktober-Stra%C3%9Fe_27_Telekommunikationsgeb%C3%A4ude_Sichtbeton_30012022_2068.jpg" target="_blank" rel="noopener">
                         "Johann Jaritz"

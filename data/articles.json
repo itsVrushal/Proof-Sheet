@@ -1,54 +1,54 @@
 {
   "articles": [
     {
-      "id": "hn-50552424",
-      "title": "Gemini 4 Neon",
-      "source": "blog.google",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "date": "2026-11-18",
-      "tag": "ai",
-      "summary": "662 points, 567 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50552424"
-    },
-    {
-      "id": "hn-50547374",
-      "title": "Unauthenticated remote code execution in Nginx",
-      "source": "wiz.io",
-      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-      "date": "2026-11-18",
-      "tag": "tech",
-      "summary": "1255 points, 545 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50547374"
-    },
-    {
-      "id": "hn-50554038",
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "source": "ruby-lang.org",
-      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-      "date": "2026-11-18",
-      "tag": "tech",
-      "summary": "176 points, 50 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50554038"
-    },
-    {
-      "id": "hn-50554935",
-      "title": "Unreal Tournament 2004 in the Browser",
-      "source": "ut2004.dev",
-      "url": "https://ut2004.dev/",
+      "id": "hn-50558533",
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "source": "element.io",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
       "date": "2026-11-19",
       "tag": "tech",
-      "summary": "104 points, 48 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50554935"
+      "summary": "146 points, 57 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50558533"
     },
     {
-      "id": "hn-50548021",
-      "title": "Seven new models at scalable price-performance",
-      "source": "microsoft.ai",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "date": "2026-11-18",
-      "tag": "ai",
-      "summary": "497 points, 334 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50548021"
+      "id": "hn-50557870",
+      "title": "What's New in PHP 8.6",
+      "source": "php.net",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "date": "2026-11-19",
+      "tag": "tech",
+      "summary": "120 points, 55 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50557870"
+    },
+    {
+      "id": "hn-50556287",
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "source": "verialabs.com",
+      "url": "https://verialabs.com/ruby2shell/",
+      "date": "2026-11-19",
+      "tag": "tech",
+      "summary": "206 points, 80 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50556287"
+    },
+    {
+      "id": "hn-50557537",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "source": "zerodha.tech",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "date": "2026-11-19",
+      "tag": "tech",
+      "summary": "104 points, 19 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50557537"
+    },
+    {
+      "id": "hn-50519231",
+      "title": "Garage Door Spam",
+      "source": "blog.harrison.page",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "date": "2026-11-16",
+      "tag": "tech",
+      "summary": "78 points, 26 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50519231"
     }
   ]
 }
