@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Dark grey slab base -->
+  <rect x="1" y="1" width="30" height="30" rx="6" fill="#1e1f23" stroke="#383a42" stroke-width="1.5" />
+  
+  <!-- Typesetting Cap-Height Line (Neon purple hairline guide matching theme) -->
+  <line x1="5" y1="7" x2="27" y2="7" stroke="#8b5cf6" stroke-width="1.2" stroke-linecap="round" />
+  
+  <!-- Proof Sheet 'P' (Concrete off-white, bold condensed) with evenodd cutout -->
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9 7H19C22.2 7 24 8.8 24 12.2C24 15.6 22.2 17.5 19 17.5H13.5V25H9V7ZM13.5 10.8H18.2C19.4 10.8 20 11.3 20 12.2C20 13.1 19.4 13.8 18.2 13.8H13.5V10.8Z" fill="#f2f0eb" />
+  
+  <!-- Baseline Line (Muted typesetting guide) -->
+  <line x1="5" y1="25" x2="27" y2="25" stroke="#52545d" stroke-width="1" stroke-linecap="round" stroke-dasharray="2 2" />
+</svg>

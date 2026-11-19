@@ -1,54 +1,54 @@
 {
   "articles": [
     {
-      "id": "hn-50538240",
-      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "source": "calif.io",
-      "url": "https://calif.io/java4shell/",
-      "date": "2026-11-17",
-      "tag": "tech",
-      "summary": "775 points, 204 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50538240"
-    },
-    {
-      "id": "hn-50540437",
-      "title": "ID.me terms required for IRS sign-in",
-      "source": "consumerrights.wiki",
-      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-      "date": "2026-11-18",
-      "tag": "tech",
-      "summary": "295 points, 126 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50540437"
-    },
-    {
-      "id": "hn-50535230",
-      "title": "GPT‑6.2 Astra and Sol",
-      "source": "openai.com",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-      "date": "2026-11-17",
-      "tag": "ai",
-      "summary": "1212 points, 758 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50535230"
-    },
-    {
-      "id": "hn-50538994",
-      "title": "Quad9's withdrawal from France: A canary in the coal mine",
-      "source": "blog.cloudflare.com",
-      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-      "date": "2026-11-17",
-      "tag": "tech",
-      "summary": "467 points, 145 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50538994"
-    },
-    {
-      "id": "hn-50540178",
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "source": "revscope.co",
-      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "id": "hn-50552424",
+      "title": "Gemini 4 Neon",
+      "source": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
       "date": "2026-11-18",
       "tag": "ai",
-      "summary": "292 points, 217 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50540178"
+      "summary": "662 points, 567 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50552424"
+    },
+    {
+      "id": "hn-50547374",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "source": "wiz.io",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "date": "2026-11-18",
+      "tag": "tech",
+      "summary": "1255 points, 545 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50547374"
+    },
+    {
+      "id": "hn-50554038",
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "source": "ruby-lang.org",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "date": "2026-11-18",
+      "tag": "tech",
+      "summary": "176 points, 50 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50554038"
+    },
+    {
+      "id": "hn-50554935",
+      "title": "Unreal Tournament 2004 in the Browser",
+      "source": "ut2004.dev",
+      "url": "https://ut2004.dev/",
+      "date": "2026-11-19",
+      "tag": "tech",
+      "summary": "104 points, 48 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50554935"
+    },
+    {
+      "id": "hn-50548021",
+      "title": "Seven new models at scalable price-performance",
+      "source": "microsoft.ai",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "date": "2026-11-18",
+      "tag": "ai",
+      "summary": "497 points, 334 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50548021"
     }
   ]
 }
