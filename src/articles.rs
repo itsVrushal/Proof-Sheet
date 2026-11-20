@@ -211,11 +211,11 @@ fn iso_date(unix_secs: i64) -> String {
 /// python blue, ai violet, security red, the formwork orange otherwise.
 fn palette(tag: &str) -> (&'static str, &'static str, &'static str) {
     match tag {
-        "python" => ("oklch(58% 0.16 252)", "oklch(42% 0.15 252)", "oklch(70% 0.14 252)"),
-        "ai" => ("oklch(58% 0.20 300)", "oklch(43% 0.18 300)", "oklch(68% 0.16 300)"),
-        "security" => ("oklch(55% 0.20 25)", "oklch(41% 0.18 25)", "oklch(65% 0.17 25)"),
+        "python" => ("oklch(67% 0.15 245)", "oklch(45% 0.14 245)", "oklch(20% 0.08 245)"),
+        "ai" => ("oklch(67% 0.18 305)", "oklch(45% 0.16 305)", "oklch(20% 0.08 305)"),
+        "security" => ("oklch(66% 0.22 28)", "oklch(46% 0.18 28)", "oklch(20% 0.08 28)"),
         // rust, tech, anything else: the formwork orange the tokens ship with
-        _ => ("oklch(66% 0.21 38)", "oklch(48% 0.17 38)", "oklch(42% 0.15 38)"),
+        _ => ("oklch(66% 0.21 38)", "oklch(48% 0.17 38)", "oklch(20% 0.08 38)"),
     }
 }
 

@@ -11,3 +11,5 @@ command_arguments = ["data/fetch-hn.mjs"]
 
 [watch]
 ignore = ["data", "data/**"]
+
+

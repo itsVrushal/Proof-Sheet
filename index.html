@@ -17,9 +17,20 @@
     <link data-trunk rel="css" href="style/blog.css">
     <link data-trunk rel="copy-dir" href="assets">
     <link data-trunk rel="copy-dir" href="data">
+    <style>
+/* Hallmark · checked: 2026-11-20 · genre: editorial · theme: Formwork (by request) · redesign: polish
+ * hero: kept, the pour added as its ground · nav: slab, the ink band (kept) · footer: letter close (kept) · imagery: photographs, library 1, mono · signature: the ink trail across the pour
+ * axes: mid/display-condensed/warm · posture: restrained · contrast: pass · fold: pass · v2.1.0 */
+:root { --color-focus: oklch(20% 0.08 38); --color-ink: oklch(18% 0.005 270); --color-paper: oklch(74% 0.008 80); }
+html, body { overflow-x: clip; }
+:focus-visible { outline: 2px solid var(--color-focus); outline-offset: 2px; }
+:active { translate: 0 1px; }
+.skip { position: absolute; left: 16px; top: -96px; padding: 8px 16px; background: var(--color-ink); color: var(--color-paper); }
+.skip:focus-visible { top: 16px; outline: 2px solid var(--color-focus); outline-offset: 2px; }
+    </style>
   </head>
   <body>
     <a class="skip" href="#main">Skip to content</a>
-    <link data-trunk rel="rust" data-csr>
+    <link data-trunk rel="rust" data-csr data-wasm-opt="0">
   </body>
 </html>

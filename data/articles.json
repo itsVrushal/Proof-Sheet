@@ -1,54 +1,54 @@
 {
   "articles": [
     {
-      "id": "hn-50558533",
-      "title": "How the European Commission rolled out Matrix to more than 40k staff",
-      "source": "element.io",
-      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-      "date": "2026-11-19",
-      "tag": "tech",
-      "summary": "146 points, 57 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50558533"
+      "id": "hn-50572503",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "source": "architectlabs.com",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "date": "2026-11-20",
+      "tag": "ai",
+      "summary": "79 points, 54 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50572503"
     },
     {
-      "id": "hn-50557870",
-      "title": "What's New in PHP 8.6",
-      "source": "php.net",
-      "url": "https://www.php.net/releases/8.6/en.php",
-      "date": "2026-11-19",
+      "id": "hn-50572116",
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars",
+      "source": "ecohustler.com",
+      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "date": "2026-11-20",
       "tag": "tech",
-      "summary": "120 points, 55 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50557870"
+      "summary": "31 points, 6 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50572116"
     },
     {
-      "id": "hn-50556287",
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "source": "verialabs.com",
-      "url": "https://verialabs.com/ruby2shell/",
-      "date": "2026-11-19",
+      "id": "hn-50572355",
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "source": "kottke.org",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "date": "2026-11-20",
       "tag": "tech",
-      "summary": "206 points, 80 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50556287"
+      "summary": "20 points, 6 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50572355"
     },
     {
-      "id": "hn-50557537",
-      "title": "Distributed, high-performance blob storage on SQLite",
-      "source": "zerodha.tech",
-      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
-      "date": "2026-11-19",
-      "tag": "tech",
-      "summary": "104 points, 19 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50557537"
+      "id": "hn-50569226",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "source": "github.com",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "date": "2026-11-20",
+      "tag": "security",
+      "summary": "272 points, 215 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50569226"
     },
     {
-      "id": "hn-50519231",
-      "title": "Garage Door Spam",
-      "source": "blog.harrison.page",
-      "url": "https://blog.harrison.page/garage-door-spam/",
+      "id": "hn-50523241",
+      "title": "The Strongest Sokoban Solver",
+      "source": "healeycodes.com",
+      "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
       "date": "2026-11-16",
       "tag": "tech",
-      "summary": "78 points, 26 comments on Hacker News.",
-      "discussion": "https://news.ycombinator.com/item?id=50519231"
+      "summary": "65 points, 14 comments on Hacker News.",
+      "discussion": "https://news.ycombinator.com/item?id=50523241"
     }
   ]
 }

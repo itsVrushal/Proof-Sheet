@@ -45,7 +45,13 @@ const sourceOf = (url) => {
 
 const iso = (secs) => new Date((secs ?? 0) * 1000).toISOString().slice(0, 10);
 
-const ids = await json(`${API}/topstories.json`);
+let ids = [];
+try {
+  ids = await json(`${API}/topstories.json`);
+} catch (e) {
+  console.log("HN fetch offline or failed; leaving data/articles.json as it was");
+  process.exit(0);
+}
 const items = [];
 for (const id of (ids ?? []).slice(0, 5)) {
   try {
